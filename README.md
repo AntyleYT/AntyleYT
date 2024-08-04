@@ -1,5 +1,5 @@
 Hi ! I'm Antyle , i am a beginner python developper and i try to learn other languages likes java or c#/C++ ...
-I'm making a AI (nammed SATAIS) (by HAISDIP group (my group) on python , if some persons is interested, you can contact me on discord at : antyle_yt
+I'm making an AI (nammed SATAIS) (by HAISDIP group (my group) on python , if some persons is interested, you can contact me on discord at : antyle_yt
 I create some mods , plugins for my own server (AlexSMP) .
 I'm from France (I speak French) .
 
