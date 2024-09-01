@@ -39,4 +39,8 @@ N'hésitez pas à me contacter sur [Discord](https://dsc.gg/haisdip) si vous ave
 ## 📫 Contact
 
 - [Discord](https://dsc.gg/haisdip)
-- [GitHub](h
+- [GitHub](https://github.com/AntyleYT)
+
+---
+
+Thank you for visiting my profile!
