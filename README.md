@@ -16,13 +16,19 @@ AlexSMP is a Minecraft SMP-Faction server that operates in both French and Engli
 
 ## 📊 Project Statistics
 
+### SATAIS
 ![SATAIS Status](https://img.shields.io/github/issues/AntyleYT/SATAIS)
 ![SATAIS Forks](https://img.shields.io/github/forks/AntyleYT/SATAIS)
 ![SATAIS Stars](https://img.shields.io/github/stars/AntyleYT/SATAIS)
 
+### AntylerMC
 ![AntylerMC Status](https://img.shields.io/github/issues/AntyleYT/AntylerMC)
 ![AntylerMC Forks](https://img.shields.io/github/forks/AntyleYT/AntylerMC)
 ![AntylerMC Stars](https://img.shields.io/github/stars/AntyleYT/AntylerMC)
+
+### AlexSMP
+![Discord Members](https://img.shields.io/discord/number-of-members/123456789012345678?label=Discord%20Members)
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0YIxOTjicRBui8dj1Q7BuA?label=YouTube%20Subscribers)
 
 ## 🌟 About Me
 
