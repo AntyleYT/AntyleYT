@@ -8,6 +8,12 @@ HAISDIP is the group behind several projects, including AntylerMC and SATAIS. We
   - **[AntylerMC](https://github.com/AntyleYT/AntylerMC)**: A collection of mods and plugins for Minecraft, including a custom launcher similar to Lunar Client designed for various Minecraft setups.
   - **[SATAIS](https://github.com/AntyleYT/SATAIS)**: An AI project developed in Python. It's an ongoing endeavor and contributions are always welcome. If you're interested, feel free to reach out!
 
+### [AlexSMP](https://dsc.gg/alexsmpfr)
+AlexSMP is a Minecraft SMP-Faction server that operates in both French and English. Join our community and enjoy a unique Minecraft experience!
+
+  - **[Discord](https://dsc.gg/alexsmpfr)**: Join our server community on Discord.
+  - **[YouTube Channel](https://www.youtube.com/@AlexSMPfr)**: Check out our YouTube channel for updates, events, and more!
+
 ## 📊 Project Statistics
 
 ![SATAIS Status](https://img.shields.io/github/issues/AntyleYT/SATAIS)
@@ -33,8 +39,4 @@ N'hésitez pas à me contacter sur [Discord](https://dsc.gg/haisdip) si vous ave
 ## 📫 Contact
 
 - [Discord](https://dsc.gg/haisdip)
-- [GitHub](https://github.com/AntyleYT)
-
----
-
-Thank you for visiting my profile!
+- [GitHub](h
