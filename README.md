@@ -27,7 +27,7 @@ AlexSMP is a Minecraft SMP-Faction server that operates in both French and Engli
 ![AntylerMC Stars](https://img.shields.io/github/stars/AntyleYT/AntylerMC)
 
 ### AlexSMP
-![Discord Members](https://img.shields.io/discord/members/1120432528461938859?label=Discord%20Members)
+- **[Discord Members](https://dsc.gg/alexsmpfr)**: Click here to see the current number of members on our Discord server.
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0YIxOTjicRBui8dj1Q7BuA?label=YouTube%20Subscribers)
 
 ## 🌟 About Me
