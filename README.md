@@ -15,7 +15,7 @@ AlexSMP is a Minecraft SMP-Faction server that operates in both French and Engli
   - **[YouTube Channel](https://www.youtube.com/@AlexSMPfr)**: Check out our YouTube channel for updates, events, and more!
 
 ## 📊 Project Statistics
-
+ [![Stats](https://github-readme-stats.vercel.app/api?username=AntyleYT&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### SATAIS
 ![SATAIS Status](https://img.shields.io/github/issues/AntyleYT/SATAIS)
 ![SATAIS Forks](https://img.shields.io/github/forks/AntyleYT/SATAIS)
