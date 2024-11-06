@@ -5,7 +5,7 @@
 ### [HAISDIP](https://github.com/AntyleYT/HAISDIP)
 HAISDIP is the group behind several projects, including AntylerMC and SATAIS. We develop various applications and tools together.
 
-  - **[AntylerMC](https://github.com/AntyleYT/AntylerMC)**: A collection of mods and plugins for Minecraft, including a custom launcher similar to Lunar Client designed for various Minecraft setups.
+  - **[AntylerMC](https://github.com/AntyleYT/AntylerMC)**: A simple 1.16.5 Minecraft Launcher , will be similar to Lunar Client and feather architecture.
   - **[SATAIS](https://github.com/AntyleYT/SATAIS)**: An AI project developed in Python. It's an ongoing endeavor and contributions are always welcome. If you're interested, feel free to reach out!
 
 ### [AlexSMP](https://dsc.gg/alexsmpfr)
