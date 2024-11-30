@@ -31,15 +31,17 @@ AlexSMP is a Minecraft SMP-Faction server that operates in both French and Engli
 
 ## 🌟 About Me
 
-I'm Antyle, a beginner Python developer who is also exploring other languages such as Java, C#, and C++. I enjoy working on AI projects and creating mods and plugins for Minecraft. My latest project includes a custom launcher for Minecraft, designed to enhance the user experience.
+I'm Antyle, a beginner Python developer who is also exploring other languages such : Java | HTML (CSS/JS front-end and back-end) | C++/C# *(at least understand)*. I enjoy working on AI projects and creating mods and plugins for Minecraft. My latest project includes a custom launcher for Minecraft, designed to enhance the user experience.
 
 Feel free to reach out to me on [Discord](https://dsc.gg/haisdip) if you have any questions or if you'd like to collaborate on a project!
 
 ## 🇫🇷 En Français
 
-Salut ! Je suis Antyle, un développeur Python amateur et j'essaie d'apprendre d'autres langages comme Java, C# et C++. Je travaille sur des projets d'IA et je crée des mods et plugins pour Minecraft. Mon dernier projet inclut un launcher personnalisé pour Minecraft, conçu pour améliorer l'expérience utilisateur.
+Salut ! Je suis Antyle, un développeur Python amateur et j'essaie d'apprendre d'autres langages : Java | HTML (CSS/JS front-end and back-end) | C++/C# *(au moins comprendre)*. Je travaille sur des projets d'IA et je crée des mods et plugins pour Minecraft. Mon dernier projet inclut un launcher personnalisé pour Minecraft, conçu pour améliorer l'expérience utilisateur.
 
 N'hésitez pas à me contacter sur [Discord](https://dsc.gg/haisdip) si vous avez des questions ou si vous souhaitez collaborer sur un projet !
+
+
 
 ## 📫 Contact
 
