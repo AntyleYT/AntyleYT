@@ -2,13 +2,13 @@
 
 ## 🌟 About Me
 
-I'm Antyle, a beginner developer who is also learning other languages such : Python | Java | ReactJS HTML (CSS/JS front-end and back-end) | C++/C# *(at least understand)*. 
+I'm Antyle, a beginner developer : Python | Java | ReactJS HTML (CSS/JS front-end and back-end) | C++/C# *(at least understand)*. 
 - CEO of Agames , SATAIS TEAM , PodZol Studio and AlertScam 
 - Feel free to reach out to me on [Discord](https://dsc.gg/haisdip) if you have any questions or if you'd like to collaborate on a project!
 
 ## 🇫🇷 En Français
 
-Salut ! Je suis Antyle, un développeur Python amateur et j'essaie d'apprendre d'autres langages : Python | Java | ReactJS HTML (CSS/JS front-end and back-end) | C++/C# *(au moins comprendre)*.
+Salut ! Je suis Antyle, un développeur amateur : Python | Java | ReactJS HTML (CSS/JS front-end and back-end) | C++/C# *(au moins comprendre)*.
 - CEO de Agames , SATAIS TEAM , PodZol Studio et AlertScam 
 - N'hésitez pas à me contacter sur [Discord](https://dsc.gg/haisdip) si vous avez des questions ou si vous souhaitez collaborer sur un projet !
 
