@@ -1,12 +1,8 @@
 # 👋 Hello World! I'm Antyle
 
-## 🌟 About Me
-
 I'm Antyle, a beginner developer : Python | Java | ReactJS HTML (CSS/JS front-end and back-end) | C++/C# *(at least understand)*. 
 - CEO of Agames , SATAIS TEAM , PodZol Studio and AlertScam 
 - Feel free to reach out to me on [Discord](https://dsc.gg/haisdip) if you have any questions or if you'd like to collaborate on a project!
-
-## 🇫🇷 En Français
 
 Salut ! Je suis Antyle, un développeur amateur : Python | Java | ReactJS HTML (CSS/JS front-end and back-end) | C++/C# *(au moins comprendre)*.
 - CEO de Agames , SATAIS TEAM , PodZol Studio et AlertScam 
@@ -22,15 +18,10 @@ AKA Satais-Team , we create somes tools and other very useful thing (like an AI)
 ### [PodZol Studio](https://github.com/AntyleYT/HAISDIP)
 (Minecraft Branch of Satais-Team)
   - **[Glow-Client](https://github.com/AntyleYT/Glow-Client)**: An open-source Minecraft Launcher and fully customizable , will be similar to Lunar Client and feather architecture.
-    
-## 📊 My Statistics
+
  [![Stats](https://github-readme-stats.vercel.app/api?username=AntyleYT&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 📫 Contact
-
 - [Discord](https://dsc.gg/haisdip)
-- [GitHub](https://github.com/AntyleYT)
 
 ---
 
