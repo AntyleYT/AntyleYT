@@ -20,13 +20,16 @@ I'm Antyle, a French Beginner developer :
 
 
 ## 🛠️ Projects
-
-### [HAISDIP](https://github.com/AntyleYT/HAISDIP)
+### [SONARIA](https://sonaria.fr) (Owner)
+A French Minecraft PVP-Faction on 1.8.8 with a unique gameplay!
+### [Frostia](https://frostia.fr) (Owner)
+A French Minecraft SkyBlock & Survival Server !
+### [HAISDIP](https://github.com/AntyleYT/HAISDIP) (Owner)
 AKA Satais-Team , we create somes tools and other very useful thing (like an AI) 
 
   - **[SATAIS](https://github.com/AntyleYT/SATAIS)**: An open-source AI developed in Python. 
 
-### [PodZol Studio](https://github.com/AntyleYT/HAISDIP)
+### [PodZol Studio](https://github.com/AntyleYT/HAISDIP) (Owner)
 (Minecraft Branch of Satais-Team)
   - **[Glow-Client](https://github.com/AntyleYT/Glow-Client)**: An open-source Minecraft Launcher and fully customizable , will be similar to Lunar Client and feather architecture.
 
