@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Antyle
 
-I'm Antyle, a PYTHON developper , want also to be a FullStack/Java Developper.
+I'm Antyle, a PYTHON developper, want also to be a FullStack/Java Developper.
   
 <h2>My Programming languages</h1>
 <h3>Beginner :</h3>
