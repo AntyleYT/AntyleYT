@@ -2,8 +2,7 @@
 
 I'm Antyle, a PYTHON developper, want also to be a FullStack/Java Developper.
   
-<h2>My Programming languages</h1>
-<h3>Beginner :</h3>
+oui.
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 </div>
